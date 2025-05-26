@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://clipforge.ai/sitemap.xml
